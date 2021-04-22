@@ -56,3 +56,7 @@ In addition to the preset Ability types and Keywords Pieces can also have some u
 ![Legend](expanded_view.png)
 
 These effects can be triggered by the event desribed in the text. In the example above it's triggered by the Piece dying.
+
+# Controls
+
+When it's your turn you can perform an action on any unit that is eligible do something (you have enough Gold for example). To perform the action hover the unit and see the available moves it can make (attacks, moves, supports, ...). If you don't want to or can't do anything with the units then Pass.
