@@ -63,7 +63,7 @@ When it's your turn you can perform an action on any unit that is eligible do so
 
 Quickly tap or click a unit to see a detalied view of their ability.
 
-# Download
+# To Play
 1. Download **build.zip** [here](https://github.com/ddkatona/relics/releases/tag/relics_v1.0)
 2. Extract **build.zip**
 3. Run **Relics.exe**
