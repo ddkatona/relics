@@ -43,6 +43,7 @@ Abilities are unique to each Piece. They can be viewed in the Ability View windo
   * Move: Unit moves to targeted field (like traditional chess)
   * Dispatch: The effect is unique to the specific Piece
 * **Support (Unit -> Ally):** The effect is unique to the specific Piece (applying some buff to an ally)
+
 For instance a traditional chess piece would have Melee and Move.
 
 Pieces can have multiple abilities, but they cannot have multiple ones of the same general type (Offensive, Neutral and Support). 
