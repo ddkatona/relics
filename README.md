@@ -26,8 +26,12 @@ The most important attributes of pieces can be seen at any point in the game. Th
 
 #### Keywords
 Keywords are general effects that can theoretically be granted to or removed from any unit at any point in the game. For example:
+
+
 ![Legend](example_keyword.png)
 
 #### Abilities
 Abilities are unique to each Piece
+
+
 ![Legend](ability_view.png)
