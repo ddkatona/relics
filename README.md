@@ -62,3 +62,8 @@ These effects can be triggered by the event desribed in the text. In the example
 When it's your turn you can perform an action on any unit that is eligible do something (you have enough Gold for example). To perform the action hover the unit and see the available moves it can make (attacks, moves, supports, ...). If you don't want to or can't do anything with the units Pass by pressing the large Pass button on the right.
 
 Quickly tap or click a unit to see a detalied view of their ability.
+
+# Download
+1. Download **build.zip** [here](https://github.com/ddkatona/relics/releases/tag/relics_v1.0)
+2. Extract **build.zip**
+3. Run **Relics.exe**
