@@ -33,7 +33,7 @@ Abilities are unique to each Piece. They can be viewed in the Ability View windo
 
 ![Legend](ability_view.png)
 
-**Abilities:**
+**Abilities (3 general types):**
 * **Offensive (Unit -> Enemy)** 
   * Attack
     * Melee: The unit moves to the field after attacking it (like traditional chess)
@@ -44,5 +44,4 @@ Abilities are unique to each Piece. They can be viewed in the Ability View windo
   * Dispatch: The effect is unique to the specific Piece
 * **Support (Unit -> Ally):** The effect is unique to the specific Piece
 
-Pieces can have multiple abilities with the exception of having multiple ones of the same generaly type (Offensive Neutral, Support).
-Pieces
+Pieces can have multiple abilities with the exception of having multiple ones of the same general type (Offensive, Neutral and Support).
