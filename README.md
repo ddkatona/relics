@@ -44,4 +44,4 @@ Abilities are unique to each Piece. They can be viewed in the Ability View windo
   * Dispatch: The effect is unique to the specific Piece
 * **Support (Unit -> Ally):** The effect is unique to the specific Piece (applying some buff to an ally)
 
-Pieces can have multiple abilities with the exception of having multiple ones of the same general type (Offensive, Neutral and Support).
+Pieces can have multiple abilities with the exception of having multiple ones of the same general type (Offensive, Neutral and Support). For instance a traditional chess piece would have Melee and Move.
