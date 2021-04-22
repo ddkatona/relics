@@ -20,6 +20,8 @@ Relics is an augumented chess game where pieces have more varied behaviours than
 
 ### Pieces
 The most important attributes of pieces can be seen at any point in the game. This is how the compact verion of a piece looks like on the board:
+
+
 ![Legend](exp.png)
 
 #### Keywords
