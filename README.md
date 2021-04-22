@@ -52,3 +52,5 @@ Pieces can have multiple abilities, but they cannot have multiple ones of the sa
 In addition to the preset Ability types and Keywords Pieces can also have some unique effects. This makes it possible to have some truly unique characters in the game. If a Piece has a unique effect it's show immediately on the Expanded Piece View upon hovering the desired unit. It looks like this:
 
 ![Legend](expanded_view.png)
+
+These effects can be triggered by the event desribed in the text. In the example above it's triggered by the Piece dying, but unique effects can be triggered passively as well (for example by ally dying).
