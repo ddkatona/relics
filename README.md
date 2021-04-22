@@ -34,14 +34,15 @@ Abilities are unique to each Piece. They can be viewed in the Ability View windo
 ![Legend](ability_view.png)
 
 **Abilities (3 general types):**
-* **Offensive (Unit targeting Enemy)** 
+* **Offensive (Unit -> Enemy)** 
   * Attack
     * Melee: The unit moves to the field after attacking it (like traditional chess)
     * Ranged: The units stays in place 
   * Corrupt: The effect is unique to the specific Piece (applying some debuff to an enemy) 
-* **Neutral (Unit targeting Empty Field)**
+* **Neutral (Unit -> Empty Field)**
   * Move: Unit moves to targeted field (like traditional chess)
   * Dispatch: The effect is unique to the specific Piece
-* **Support (Unit targeting Ally):** The effect is unique to the specific Piece (applying some buff to an ally)
+* **Support (Unit -> Ally):** The effect is unique to the specific Piece (applying some buff to an ally)
+For instance a traditional chess piece would have Melee and Move.
 
-Pieces can have multiple abilities with the exception of having multiple ones of the same general type (Offensive, Neutral and Support). For instance a traditional chess piece would have Melee and Move.
+Pieces can have multiple abilities, but they cannot have multiple ones of the same general type (Offensive, Neutral and Support). 
