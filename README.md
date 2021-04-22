@@ -53,4 +53,4 @@ In addition to the preset Ability types and Keywords Pieces can also have some u
 
 ![Legend](expanded_view.png)
 
-These effects can be triggered by the event desribed in the text. In the example above it's triggered by the Piece dying, but unique effects can be triggered passively as well (for example by ally dying).
+These effects can be triggered by the event desribed in the text. In the example above it's triggered by the Piece dying.
