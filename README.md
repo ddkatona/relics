@@ -17,3 +17,6 @@ Relics is an augumented chess game where pieces have more varied behaviours than
 * Rounds are made up of Turns
   * A Turn ends after the Player acts in any way, be it a Pass or a Move.
   * Turns alternate between players until the end of the Round.
+
+### Unit graphics explanation
+![Legend](exp.png)
