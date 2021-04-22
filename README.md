@@ -1,15 +1,15 @@
-# Relics
+# Intriduction
 
 Relics is an augumented chess game where pieces have more varied behaviours than the traditional chess ones.
 
-### Key differences to traditional chess:
+## Key differences to traditional chess:
 * Players can have arbitrary number of Kings and the game is over when one of the players loses _all_ of their Kings.
 * The board is 7x7.
 * There is the possibility Pass instead of making a move.
 * In addition to the traditional Capture and Move actions pieces can also Support, Dispatch and Corrupt.
 * Pieces consume Gold to Move, Capture, Support, etc.
 
-### Flow of the Game
+## Flow of the Game
 * The Game is made up of Rounds
   * At round start both players gain a new Gold coin slot (max. 8), then get their slots filled.
   * The player who starts the round alternates throughout the Game.
@@ -18,17 +18,17 @@ Relics is an augumented chess game where pieces have more varied behaviours than
   * A Turn ends after the Player acts in any way, be it a Pass or a Move.
   * Turns alternate between players until the end of the Round.
 
-### Pieces
+## Pieces
 The most important attributes of pieces can be seen at any point in the game. This is how the compact verion of a piece looks like on the board:
 
 ![Legend](exp.png)
 
-#### Keywords
+### Keywords
 Keywords are general effects that can theoretically be granted to or removed from any unit at any point in the game. For example:
 
 ![Legend](example_keyword.png)
 
-#### Abilities
+### Abilities
 Abilities are unique to each Piece. They can be viewed in the Ability View window by tapping/clicking on the unit in game. It looks like this:
 
 ![Legend](ability_view.png)
@@ -48,7 +48,7 @@ For instance a traditional chess piece would have Melee and Move.
 
 Pieces can have multiple abilities, but they cannot have multiple ones of the same general type (Offensive, Neutral and Support).
 
-#### Unique behaviours
+### Unique behaviours
 In addition to the preset Ability types and Keywords Pieces can also have some unique effects. This makes it possible to have some truly unique characters in the game. If a Piece has a unique effect it's show immediately on the Expanded Piece View upon hovering the desired unit. It looks like this:
 
 ![Legend](expanded_view.png)
