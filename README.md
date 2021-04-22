@@ -36,7 +36,7 @@ Abilities are unique to each Piece. They can be viewed in the Ability View windo
 Abilities:
 * **Offensive (Unit -> Enemy)** 
   * Attack
-    * Melee
-    * Ranged 
+    * Melee: The unit moves to the field after attacking it (like traditional chess)
+    * Ranged: The units stays in place 
   * Corrupt: The effect is unique to the specific Piece
 * 
