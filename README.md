@@ -33,5 +33,10 @@ Abilities are unique to each Piece. They can be viewed in the Ability View windo
 
 ![Legend](ability_view.png)
 
-There are **3 main types of abilities**:
-*
+Abilities:
+* **Offensive (Unit -> Enemy)** 
+  * Attack
+    * Melee
+    * Ranged 
+  * Corrupt: The effect is unique to the specific Piece
+* 
