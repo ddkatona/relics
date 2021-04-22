@@ -46,4 +46,9 @@ Abilities are unique to each Piece. They can be viewed in the Ability View windo
 
 For instance a traditional chess piece would have Melee and Move.
 
-Pieces can have multiple abilities, but they cannot have multiple ones of the same general type (Offensive, Neutral and Support). 
+Pieces can have multiple abilities, but they cannot have multiple ones of the same general type (Offensive, Neutral and Support).
+
+#### Unique behaviours
+In addition to the preset Ability types and Keywords Pieces can also have some unique effects. This makes it possible to have some truly unique characters in the game. If a Piece has a unique effect it's show immediately on the Expanded Piece View upon hovering the desired unit. It looks like this:
+
+![Legend](expanded_view.png)
