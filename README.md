@@ -29,6 +29,6 @@ Keywords are general effects that can theoretically be granted to or removed fro
 ![Legend](example_keyword.png)
 
 #### Abilities
-Abilities are unique to each Piece
+Abilities are unique to each Piece. They can be viewd in the Ability View window by tapping/clicking on the unit in game. It looks like this:
 
 ![Legend](ability_view.png)
