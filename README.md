@@ -9,6 +9,8 @@ Relics is an augumented chess game where pieces have more varied behaviours than
 * In addition to the traditional Capture and Move actions pieces can also Support, Dispatch and Corrupt.
 * Pieces consume Gold to Move, Capture, Support, etc.
 
+# Rules
+
 ## Flow of the Game
 * The Game is made up of Rounds
   * At round start both players gain a new Gold coin slot (max. 8), then get their slots filled.
