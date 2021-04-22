@@ -1,6 +1,6 @@
-# Intriduction
+# Introduction
 
-Relics is an augumented chess game where pieces have more varied behaviours than the traditional chess ones.
+Relics is an augumented chess game where pieces have more varied behaviours than the traditional chess ones. Game modes include both PvP and PvE, but the game is designed around PvP.
 
 ## Key differences to traditional chess:
 * Players can have arbitrary number of Kings and the game is over when one of the players loses _all_ of their Kings.
